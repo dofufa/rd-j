@@ -1,2 +1,0 @@
-# rd-j
-redirect repo
